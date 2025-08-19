@@ -8,6 +8,10 @@
   color: rgb(36, 36, 36);
 }
 
+a {
+  color: rgb(152, 36, 108);
+}
+
 .app-wrapper {
   background-color: rgb(10, 126, 172);
   width: 100%;

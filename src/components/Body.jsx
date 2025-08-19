@@ -175,9 +175,9 @@ export default function Body ({sections}) {
                     <ProjectBlurb 
                         extraClass="last-project"
                         intro="This portfolio site!"
-                        secondButtonLink="https://noahnjensen.dev"
+                        secondButtonLink="https://gathrazio.github.io/gathrazio-portfolio/"
                         secondButtonText="Reload portfolio in new page"
-                        thirdButtonLink="https://github.com/Gathrazio/Gathrazio.github.io"
+                        thirdButtonLink="https://github.com/Gathrazio/gathrazio-portfolio"
                         thirdButtonText="View Code"
                         description="I developed this portfolio site with the help of React.js and Vite. Feel free to peruse what makes this page run and how things are setup!"
                     />
